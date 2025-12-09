@@ -5,7 +5,7 @@ const render = (options) => {
   // options.setGlobalState({user: {name: ''}}) 改变全局的数据
   // options.onGlobalStateChange 监听全局数据的变化
 
-  
+  123123123
   document.querySelector('#current-env').innerHTML = 'qiankun'
   const globalState = options.getGlobalState()
 
